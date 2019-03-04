@@ -1,2 +1,2 @@
-# RANDOMNESS
+# Test
 Testing out GitHub functions
